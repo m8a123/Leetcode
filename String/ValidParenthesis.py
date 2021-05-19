@@ -23,8 +23,7 @@ def isValid(self, s):
                 return False 
             else:
                 continue 
-            
-            
+                  
     if stack == []:
         return True 
     else:
